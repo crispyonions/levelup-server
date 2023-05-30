@@ -4,7 +4,7 @@
       "pk": 1,
       "fields": {
         "description": "Minecraft Night",
-        "date": "20230503",
+        "date": "2023-05-03",
         "time": "13:50",
         "organizer": 1,
         "attendees": [],
@@ -16,7 +16,7 @@
       "pk": 2,
       "fields": {
         "description": "Unsettled Settlers",
-        "date": "20230505",
+        "date": "2023-05-05",
         "time": "21:00",
         "organizer": 1,
         "attendees": [],
